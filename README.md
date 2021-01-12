@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm catthehacker</h1>
-<h3 align="center">Accidental archivist, sysadmin and programmist.</h3>
+<h1 align="center">Hi 👋, I'm catthehacker (or hackercat)</h1>
+<h3 align="center">Accidental developer, system administrator and archivist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="catthehacker" /> </p>
 
